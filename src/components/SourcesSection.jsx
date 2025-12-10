@@ -161,7 +161,7 @@ export default function SourcesSection() {
 
           <li id="src-gq-air-force-1">
             <a
-              href="https://www.gq.com/story/air-force-1-sneaker-history"
+              href="https://thesolesupplier.co.uk/news/discover-how-the-nike-air-force-1-became-the-sneaker-of-new-york-city/"
               target="_blank"
               rel="noreferrer"
             >
